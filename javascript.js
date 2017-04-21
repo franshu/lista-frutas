@@ -1,0 +1,1 @@
+alert("Hola, agregue su fruta favorita");
